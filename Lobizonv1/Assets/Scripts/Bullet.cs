@@ -25,7 +25,13 @@ public class Bullet : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            Debug.Log("El Lobizón fue alcanzado");
+            PlayerHealth playerHealth =
+                collision.GetComponent<PlayerHealth>();
+
+            if (playerHealth != null)
+            {
+                playerHealth.TakeDamage(15);
+            }
 
             Destroy(gameObject);
         }
