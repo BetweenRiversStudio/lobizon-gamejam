@@ -7,6 +7,8 @@ public class HunterShooter : MonoBehaviour
     public Transform firePoint;
 
     public float fireRate = 2f;
+    public Transform player;
+    public float detectionRange = 8f;
 
     void Start()
     {
@@ -16,13 +18,31 @@ public class HunterShooter : MonoBehaviour
             fireRate
         );
     }
+    void Awake()
+    {
+        player =
+            GameObject.FindGameObjectWithTag("Player")
+            .transform;
+    }
 
     void Shoot()
     {
-        Instantiate(
-            bulletPrefab,
-            firePoint.position,
-            Quaternion.identity
-        );
+        if (player == null)
+            return;
+
+        float distance =
+            Vector2.Distance(
+                transform.position,
+                player.position
+            );
+
+        if (distance <= detectionRange)
+        {
+            Instantiate(
+                bulletPrefab,
+                firePoint.position,
+                Quaternion.identity
+            );
+        }
     }
 }

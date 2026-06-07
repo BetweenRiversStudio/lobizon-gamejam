@@ -30,4 +30,17 @@ public class PlayerHunger : MonoBehaviour
 
         Debug.Log("Comió. Hambre actual: " + hunger);
     }
+    public void AddHunger(float amount)
+    {
+        hunger += amount;
+
+        hunger = Mathf.Clamp(hunger, 0, 100);
+
+        hungerBar.value = hunger;
+
+        Debug.Log(
+            "Hambre recuperada: " +
+            hunger
+        );
+    }
 }
