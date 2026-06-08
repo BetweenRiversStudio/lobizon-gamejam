@@ -6,14 +6,22 @@ public class PlayerAttack : MonoBehaviour
     public float attackRange = 1.5f;
     public LayerMask enemyLayers;
     public int attackDamage = 50;
+    public float attackCooldown = 0.5f;
+    private float nextAttackTime = 0f;
     public LayerMask foodLayer;
     public float foodAmount = 20f;
 
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.E))
-{
+        if (
+    Input.GetKeyDown(KeyCode.E)
+    && Time.time >= nextAttackTime
+)
+        {
             Attack();
+
+            nextAttackTime =
+                Time.time + attackCooldown;
         }
     }
 

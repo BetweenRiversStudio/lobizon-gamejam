@@ -19,6 +19,10 @@ public class SheepSpawner : MonoBehaviour
 
     void SpawnSheep()
     {
+        if (GameClock.CurrentTime >= 60f)
+        {
+            return;
+        }
         int randomIndex =
             Random.Range(0, spawnPoints.Length);
 
