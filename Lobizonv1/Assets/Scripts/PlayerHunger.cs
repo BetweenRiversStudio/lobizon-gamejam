@@ -1,46 +1,94 @@
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class PlayerHunger : MonoBehaviour
 {
     public float hunger = 100f;
+
     public float hungerDrain = 5f;
 
     public Slider hungerBar;
 
+    private bool isDead = false;
+
     void Update()
     {
-        hunger -= hungerDrain * Time.deltaTime;
+        if (isDead)
+            return;
 
-        hunger = Mathf.Clamp(hunger, 0, 100);
+        hunger -=
+            hungerDrain *
+            Time.deltaTime;
 
-        hungerBar.value = hunger;
+        hunger =
+            Mathf.Clamp(
+                hunger,
+                0,
+                100
+            );
+
+        hungerBar.value =
+            hunger;
 
         if (hunger <= 0)
         {
-            Debug.Log("El Lobizón murió de hambre");
+            Die();
         }
     }
 
-    public void Eat(float foodAmount)
+    void Die()
+    {
+        isDead = true;
+
+        Debug.Log(
+            "El Lobizón murió de hambre"
+        );
+
+        DeathManager.instance
+    .ShowDeath(
+        "Murió de hambre"
+    );
+    }
+
+    public void Eat(
+        float foodAmount
+    )
     {
         hunger += foodAmount;
 
-        hunger = Mathf.Clamp(hunger, 0, 100);
+        hunger =
+            Mathf.Clamp(
+                hunger,
+                0,
+                100
+            );
 
-        Debug.Log("Comió. Hambre actual: " + hunger);
+        Debug.Log(
+            "Comió. Hambre actual: "
+            + hunger
+        );
     }
-    public void AddHunger(float amount)
+
+    public void AddHunger(
+        float amount
+    )
     {
         hunger += amount;
 
-        hunger = Mathf.Clamp(hunger, 0, 100);
+        hunger =
+            Mathf.Clamp(
+                hunger,
+                0,
+                100
+            );
 
-        hungerBar.value = hunger;
+        hungerBar.value =
+            hunger;
 
         Debug.Log(
-            "Hambre recuperada: " +
-            hunger
+            "Hambre recuperada: "
+            + hunger
         );
     }
 }

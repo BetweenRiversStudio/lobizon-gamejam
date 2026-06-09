@@ -70,19 +70,23 @@ public class GameClock : MonoBehaviour
             hours.ToString("00") +
             ":" +
             minutes.ToString("00");
-       
+
         if (currentMinutes >= 360f)
         {
-            Debug.Log("Se hizo de día. Perdiste.");
+            Debug.Log(
+                "Se hizo de día. Perdiste."
+            );
 
-            UnityEngine.SceneManagement
-                .SceneManager
-                .LoadScene(
-                    UnityEngine.SceneManagement
-                    .SceneManager
-                    .GetActiveScene()
-                    .name
-                );
+            currentMinutes = 0f;
+            CurrentTime = 0f;
+
+            // destruir reloj viejo
+            Destroy(gameObject);
+
+            // volver al inicio
+            SceneManager.LoadScene(
+                "Countryside"
+            );
         }
     }
     public void SetMinimumTime(float minimumTime)

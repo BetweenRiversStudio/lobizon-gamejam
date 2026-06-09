@@ -3,36 +3,58 @@ using UnityEngine;
 public class Bullet : MonoBehaviour
 {
     public float speed = 8f;
+
     public float lifetime = 5f;
+
+    private Rigidbody2D rb;
 
     void Start()
     {
-        Destroy(gameObject, lifetime);
-    }
+        rb =
+            GetComponent<Rigidbody2D>();
 
-    void Update()
-    {
-        transform.Translate(
-            Vector2.left *
-            speed *
-            Time.deltaTime
+        rb.linearVelocity =
+            transform.right *
+            speed;
+
+        Destroy(
+            gameObject,
+            lifetime
         );
     }
 
     private void OnTriggerEnter2D(
-        Collider2D collision
-    )
+    Collider2D collision
+)
     {
-        if (collision.CompareTag("Player"))
+        if (
+            collision.CompareTag(
+                "Player"
+            )
+        )
         {
             PlayerHealth playerHealth =
-                collision.GetComponent<PlayerHealth>();
+                collision.GetComponent<
+                    PlayerHealth
+                >();
 
-            if (playerHealth != null)
+            if (
+                playerHealth != null
+            )
             {
-                playerHealth.TakeDamage(15);
+                playerHealth
+                    .TakeDamage(15);
             }
+        }
 
+        // Destruir si toca algo
+        // que no sea enemigo
+        if (
+            !collision.CompareTag(
+                "Hunter"
+            )
+        )
+        {
             Destroy(gameObject);
         }
     }

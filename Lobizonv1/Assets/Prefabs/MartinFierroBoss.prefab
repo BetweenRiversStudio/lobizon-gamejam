@@ -46,7 +46,7 @@ GameObject:
   - component: {fileID: 5111324565412334539}
   m_Layer: 6
   m_Name: MartinFierroBoss
-  m_TagString: Untagged
+  m_TagString: Hunter
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -184,11 +184,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4579469164412d4ea78cc85cd5c8c8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HunterShooter
+  obstacleLayer:
+    serializedVersion: 2
+    m_Bits: 256
   bulletPrefab: {fileID: 7634615686842243514, guid: 5ade8e80cb0496a43a5260786821059b, type: 3}
   firePoint: {fileID: 7990206868417579988}
   fireRate: 0.8
-  player: {fileID: 0}
   detectionRange: 12
+  rotateSpeed: 10
 --- !u!114 &5111324565412334539
 MonoBehaviour:
   m_ObjectHideFlags: 0

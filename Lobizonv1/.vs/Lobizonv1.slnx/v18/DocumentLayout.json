@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\proyecto github lobizon\\lobizon-gamejam\\lobizonv1\\assets\\scripts\\gameclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\proyecto github lobizon\\lobizon-gamejam\\lobizonv1\\assets\\scripts\\deathmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\proyecto github lobizon\\lobizon-gamejam\\lobizonv1\\assets\\scripts\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\proyecto github lobizon\\lobizon-gamejam\\lobizonv1\\assets\\scripts\\sheepspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sheepspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\PlayerAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\proyecto github lobizon\\lobizon-gamejam\\lobizonv1\\assets\\scripts\\huntershooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\huntershooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\proyecto github lobizon\\lobizon-gamejam\\lobizonv1\\assets\\scripts\\sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\proyecto github lobizon\\lobizon-gamejam\\lobizonv1\\assets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\proyecto github lobizon\\lobizon-gamejam\\lobizonv1\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\proyecto github lobizon\\lobizon-gamejam\\lobizonv1\\assets\\scripts\\playerhunger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhunger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\proyecto github lobizon\\lobizon-gamejam\\lobizonv1\\assets\\scripts\\objectivemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectivemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\proyecto github lobizon\\lobizon-gamejam\\lobizonv1\\assets\\scripts\\huntershooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\huntershooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\proyecto github lobizon\\lobizon-gamejam\\lobizonv1\\assets\\scripts\\huntermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\huntermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\proyecto github lobizon\\lobizon-gamejam\\lobizonv1\\assets\\scripts\\gameclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\proyecto github lobizon\\lobizon-gamejam\\lobizonv1\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\TutorialTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TutorialTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,28 +50,80 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SheepSpawner.cs",
-              "DocumentMoniker": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\SheepSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SheepSpawner.cs",
-              "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\SheepSpawner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SheepSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T18:30:08.117Z",
+              "WhenOpened": "2026-06-09T00:30:18.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DeathManager.cs",
+              "DocumentMoniker": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\DeathManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathManager.cs",
+              "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\DeathManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:27:54.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectiveManager.cs",
+              "DocumentMoniker": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\ObjectiveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectiveManager.cs",
+              "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\ObjectiveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectiveManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:16:05.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "GameClock.cs",
               "DocumentMoniker": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\GameClock.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameClock.cs",
               "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\GameClock.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameClock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAA3wFoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T18:27:48.647Z",
+              "WhenOpened": "2026-06-08T23:24:27.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerHunger.cs",
+              "DocumentMoniker": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\PlayerHunger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHunger.cs",
+              "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\PlayerHunger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHunger.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T23:18:12.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwDUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T22:38:05.2Z",
               "EditorCaption": ""
             },
             {
@@ -82,83 +134,35 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\HunterShooter.cs",
               "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\HunterShooter.cs",
               "RelativeToolTip": "Assets\\Scripts\\HunterShooter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAswJcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:09:47.474Z",
+              "WhenOpened": "2026-06-08T22:35:36.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Sheep.cs",
-              "DocumentMoniker": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\Sheep.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Sheep.cs",
-              "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\Sheep.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Sheep.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Title": "HunterMovement.cs",
+              "DocumentMoniker": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\HunterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HunterMovement.cs",
+              "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\HunterMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HunterMovement.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwDgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T22:59:58.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlayerHunger.cs",
-              "DocumentMoniker": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\PlayerHunger.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHunger.cs",
-              "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\PlayerHunger.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerHunger.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T22:50:18.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EnemyHealth.cs",
-              "DocumentMoniker": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\EnemyHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyHealth.cs",
-              "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\EnemyHealth.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyHealth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T22:43:55.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SceneTransition.cs",
-              "DocumentMoniker": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\SceneTransition.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneTransition.cs",
-              "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\SceneTransition.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SceneTransition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T22:21:55.222Z",
+              "WhenOpened": "2026-06-08T22:26:40.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
-              "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\Bullet.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Title": "TutorialTrigger.cs",
+              "DocumentMoniker": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\TutorialTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TutorialTrigger.cs",
+              "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\TutorialTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TutorialTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T19:51:40.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerAttack.cs",
-              "DocumentMoniker": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\PlayerAttack.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAttack.cs",
-              "ToolTip": "D:\\Proyecto GitHub Lobizon\\lobizon-gamejam\\Lobizonv1\\Assets\\Scripts\\PlayerAttack.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerAttack.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T18:19:10.918Z",
+              "WhenOpened": "2026-06-08T22:07:44.229Z",
               "EditorCaption": ""
             }
           ]

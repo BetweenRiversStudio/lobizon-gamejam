@@ -35,8 +35,9 @@ public class PlayerHealth : MonoBehaviour
     {
         Debug.Log("El Lobizón murió");
 
-        SceneManager.LoadScene(
-            SceneManager.GetActiveScene().buildIndex
-        );
+        DeathManager.instance
+    .ShowDeath(
+        "Los cazadores te abatieron"
+    );
     }
 }
